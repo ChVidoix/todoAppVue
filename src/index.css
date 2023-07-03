@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: Roboto, monospace;
+    background-image: linear-gradient(to bottom, black, #406b70);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
